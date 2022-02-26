@@ -1,5 +1,4 @@
 
-![200](https://user-images.githubusercontent.com/76207497/153593805-240239d9-d2ee-4e65-b35e-1f51638b3176.gif)
 
 <!--
 **ReemYasser2/ReemYasser2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, I'm Reem a biomedical engineering student
