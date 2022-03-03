@@ -1,5 +1,9 @@
 
-<h2> Hi, I'm Reem </h2>
+<h2> :wave: Hi, I'm Reem </h2>
+
+I'm a biomedical engineering student at Cairo University.
+I'm interested in image processing, machine learning, and healthcare information systems. 
+
 <!--
 **ReemYasser2/ReemYasser2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm Reem a biomedical engineering student
