@@ -4,7 +4,11 @@ Hi there! I'm Reem, and I'm passionate about VR development, game development, s
 
 ## About Me 🙋‍♂️
 
-I'm a biomedical engineer and have worked on multiple projects in the tech industry. I've enjoyed applying my knowledge in machine learning and computer vision working on classification projects. I have a strong interest in the potential of VR development, especially in the educational and training fields. I'm currently working on a cognitive training program designed to aid the workforce in enhancing their attentional skills. I enjoy software testing because I believe in the importance of testing applications and ensuring they work as predicted and provide a smooth experience for users. I have also worked on several image and signal processing projects showcasing important concepts in these fields.
+I'm a biomedical engineer and have worked on multiple projects in the tech industry.
+</br>
+I'm currently working on a cognitive training program designed to aid the workforce in enhancing their attentional skills. 
+</br>
+I enjoy software testing and believe in the importance of delivering applications that provide a smooth experience for users and exceed their expectations. 
 
 ## Projects 🚀
 
