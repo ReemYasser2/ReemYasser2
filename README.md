@@ -4,8 +4,10 @@
 I'm a biomedical engineering student at Cairo University.
 I'm interested in VR development, game development, software testing, machine learning, and data science. 
 </br>
+</br>
 
 I’m currently working on cognitive training solutions developed for VR.
+</br>
 I enjoy software testing, especially when it comes to web and mobile apps.
 
 <!--
