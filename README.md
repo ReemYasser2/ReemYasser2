@@ -2,9 +2,11 @@
 <h2> :wave: Hi, I'm Reem </h2>
 
 I'm a biomedical engineering student at Cairo University.
-I'm interested in image processing, machine learning, and healthcare information systems. 
+I'm interested in VR development, game development, software testing, machine learning, and data science. 
 </br>
-🔭 I’m currently working on signal processing projects using python and computer graphics projects using OpenGL
+
+I’m currently working on cognitive training solutions developed for VR.
+I enjoy software testing, especially when it comes to web and mobile apps.
 
 <!--
 **ReemYasser2/ReemYasser2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
