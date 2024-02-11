@@ -38,4 +38,10 @@ Here are some of the projects I've worked on:
 - Technologies: Python, Pandas, Matplotlib
 - Repository: [Cardiovascular Disease Classifier](https://github.com/ReemYasser2/Cardiovascular-disease-classifier)
 
+### Retinal Image Classification 👁️🖼️
+
+- Description: In this project, I demonstrate several integral image processing concepts and techniques using an interactable desktop application that allows users to open and manipulate images of any type.
+- Technologies: Python
+- Repository: [Image Processing Application](https://github.com/ReemYasser2/Image-Processing-Application)
+
 Feel free to explore these projects and provide any feedback or suggestions. I'm always open to collaboration and learning from others.
