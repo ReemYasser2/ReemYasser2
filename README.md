@@ -24,11 +24,11 @@ Here are some of the projects I've worked on:
 - Technologies: Java
 - Repository: [Tessera Integration Testing](https://github.com/ReemYasser2/tessera-integration-testing)
 
-### Retinal Image Classification 👁️🖼️
+### Cardiovascular Disease Classification ❤️📈
 
-- Description: In this project, I explore the application of computer vision algorithms in the classification of retinal images to aid in the diagnosis of retinal diseases
-- Technologies: Python
-- Repository: [Three-class retinal image classification](https://github.com/ReemYasser2/Three-class-retinal-image-classification)
+- Description: In this project, we used logistic regression to classify how likely patients were to have cardiovascular disease according to several vitals, biological factors, and metrics. 
+- Technologies: Python, Pandas, Matplotlib
+- Repository: [Cardiovascular Disease Classifier](https://github.com/ReemYasser2/Cardiovascular-disease-classifier)
 
 ### Credit Card Fraud Detection 💳📊
 
@@ -36,13 +36,7 @@ Here are some of the projects I've worked on:
 - Technologies: Python, Pandas, Matplotlib
 - Repository: [Credit Card Fraud Detection](https://github.com/ReemYasser2/Credit-Card-Fraud-Detection)
 
-### Cardiovascular Disease Classification ❤️📈
-
-- Description: In this project, we used logistic regression to classify how likely patients were to have cardiovascular disease according to several vitals, biological factors, and metrics. 
-- Technologies: Python, Pandas, Matplotlib
-- Repository: [Cardiovascular Disease Classifier](https://github.com/ReemYasser2/Cardiovascular-disease-classifier)
-
-### Retinal Image Classification 👁️🖼️
+### Image Processing Application 🖼️
 
 - Description: In this project, I demonstrate several integral image processing concepts and techniques using an interactable desktop application that allows users to open and manipulate images of any type.
 - Technologies: Python
