@@ -14,7 +14,7 @@ I'm currently working on a VR cognitive training program designed to aid the wor
 ### Attention Training Virtual Reality Game 🧠🎮
 - Description: an attention training program designed to aid the workforce in accessibly training their selective, distributed, and sustained attention
 - Technologies: Unity3D, C#, Oculus SDK
-- Demo: https://drive.google.com/file/d/1vH4hi9qcMnHI5g8dvFqG5c3n0g3lUjfU/view?usp=sharing
+- Demo: [Cogniverse Demo](https://drive.google.com/file/d/1vH4hi9qcMnHI5g8dvFqG5c3n0g3lUjfU/view?usp=sharing)
 
 ### Tessera: a ticket booking platform 🎟️📝
 
