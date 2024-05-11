@@ -4,19 +4,17 @@ Hi there! I'm Reem, and I'm passionate about VR development, game development, s
 
 ## About Me 🙋‍♂️
 
-I'm a biomedical engineer and have worked on multiple projects in the tech industry.
+I'm a Biomedical Data Engineer and have worked on multiple projects in the tech industry.
 </br>
-I'm currently working on a cognitive training program designed to aid the workforce in enhancing their attentional skills. 
-</br>
-I enjoy software testing and believe in the importance of delivering applications that provide a smooth experience for users and exceed their expectations. 
+I'm currently working on a VR cognitive training program designed to aid the workforce in enhancing their attentional skills. 
+
 
 ## Projects 🚀
-
-Here are some of the projects I've worked on:
 
 ### Attention Training Virtual Reality Game 🧠🎮
 - Description: an attention training program designed to aid the workforce in accessibly training their selective, distributed, and sustained attention
 - Technologies: Unity3D, C#, Oculus SDK
+- Demo: https://drive.google.com/file/d/1vH4hi9qcMnHI5g8dvFqG5c3n0g3lUjfU/view?usp=sharing
 
 ### Tessera: a ticket booking platform 🎟️📝
 
